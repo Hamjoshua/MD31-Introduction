@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="bears">Если б мишки были пчелами,\n
+        То они бы нипочём\n
+        Никогда и не подумали\n
+        Так высоко строить дом!
+    </string>
+    <string name="studentName">
+        Бирюков Марк ПИ-231
+    </string>
 </resources>
